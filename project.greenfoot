@@ -1,12 +1,15 @@
 #Greenfoot project file
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=64704b4e01bca6e13ff752e87fcfc0000d9c4d4a
 class.MyWorld.image=board.jpg
 class.MyWorld.superclass=greenfoot.World
 class.tanaka.image=alligator.png
 class.tanaka.superclass=greenfoot.Actor
 mainWindow.height=666
 mainWindow.width=847
-mainWindow.x=1026
-mainWindow.y=387
+mainWindow.x=771
+mainWindow.y=382
 package.numDependencies=0
 package.numTargets=2
 project.charset=UTF-8
@@ -26,8 +29,8 @@ target1.x=70
 target1.y=10
 target2.editor.height=700
 target2.editor.width=900
-target2.editor.x=1020
-target2.editor.y=79
+target2.editor.x=406
+target2.editor.y=176
 target2.height=50
 target2.name=tanaka
 target2.naviview.expanded=true
