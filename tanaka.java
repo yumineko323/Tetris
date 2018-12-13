@@ -25,5 +25,9 @@ public class tanaka extends Actor
        if (Greenfoot.isKeyDown("left")){
         setRotation(180);
         move(4);}
+        if( Greenfoot.isKeyDown( "down" ) ){
+        setRotation(90);
+        move(1);
+       }
     }    
 }
