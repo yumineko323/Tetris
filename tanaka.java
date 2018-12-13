@@ -14,6 +14,11 @@ public class tanaka extends Actor
      */
     public void act() 
     {
+
+        if( Greenfoot.isKeyDown( "right" ) ){
+        setRotation(0);
+        move(1);
+       }
        if (Greenfoot.isKeyDown("up")){
         setRotation(270);
         move(4);}
